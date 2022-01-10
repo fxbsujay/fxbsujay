@@ -1,2 +1,2 @@
-# fxb
-fxb
+# 个人博客
+xuebin.xyz
