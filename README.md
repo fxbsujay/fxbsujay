@@ -1,5 +1,5 @@
 # Personal blog
-xuebin.xyz
+www.xuebin.xyz
 
 # What is your dream？
 Keep looking for new things
