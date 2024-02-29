@@ -1,2 +1,2 @@
 # Personal blog
-### www.xuebin.xyz
+### https://fxbsujay.github.io/
